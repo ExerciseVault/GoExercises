@@ -1,0 +1,4 @@
+Welcome to the world of Go.
+Go is a compiled language.
+It is easy to learn Go.
+Let's explore Go's features.
